@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on https://usernamechecker.netlify.app/<br>🌱 I’m currently studying.
-
+🔭 I’m currently focusing mainly on [usernamechecker.netlify.app](https://usernamechecker.netlify.app).<br>
+📚 I’m deepening my knowledge of Python while continuing to explore JavaScript.<br>
+🌱 I’m currently studying.
 
 # 💻 Tech Stack:
 ### Languages & Data Formats:
