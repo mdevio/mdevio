@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently focusing mainly on [usernamechecker.online](https://usernamechecker.online).<br>
+🔭 I’m currently not focusing on anything.<br>
 📚 I’m deepening my knowledge of Python while continuing to explore JavaScript.<br>
 🌱 I’m currently studying.
 
