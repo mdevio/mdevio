@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently focusing mainly on [usernamechecker.netlify.app](https://usernamechecker.netlify.app).<br>
+🔭 I’m currently focusing mainly on [usernamechecker.online](https://usernamechecker.online).<br>
 📚 I’m deepening my knowledge of Python while continuing to explore JavaScript.<br>
 🌱 I’m currently studying.
 
@@ -7,7 +7,7 @@
 Easily check a username's availability on 20+ platforms with speed and accuracy, all with a single API call.
 
 📧 For business inquiries: md3vio@gmail.com<br>
-🌐 Live Demo: [usernamechecker.netlify.app](https://usernamechecker.netlify.app) *(powered by the API)*
+🌐 Live Demo: [usernamechecker.online](https://usernamechecker.online) *(powered by the API)*
 
 # 💻 Tech Stack:
 ### Languages & Data Formats:
