@@ -4,7 +4,7 @@
 🌱 I’m currently studying.
 
 ### 🚀 Check Out My Username Checker API!
-Easily check a username's availability on 20+ platforms with speed and accuracy, all with a single API call.
+Easily check a username's availability on 25+ platforms with speed and accuracy, all with a single API call.
 
 📧 For business inquiries: md3vio@gmail.com<br>
 🌐 Live Demo: [usernamechecker.online](https://usernamechecker.online) *(powered by the API)*
