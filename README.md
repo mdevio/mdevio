@@ -1,13 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently not focusing on anything.<br>
 📚 I’m deepening my knowledge of Python while continuing to explore JavaScript.<br>
-🌱 I’m currently studying.
-
-### 🚀 Check Out My Username Checker API!
-Easily check a username's availability on 25+ platforms with speed and accuracy, all with a single API call.
-
-📧 For business inquiries: md3vio@gmail.com<br>
-🌐 Live Demo: [usernamechecker.online](https://usernamechecker.online) *(powered by the API)*
+🌱 I’m currently working.
 
 # 💻 Tech Stack:
 ### Languages & Data Formats:
